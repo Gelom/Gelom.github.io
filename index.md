@@ -1,2 +1,2 @@
 
-[Link to another page](./factorio.md).
+[Factorio](./factorio.md).
