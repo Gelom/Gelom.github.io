@@ -1,46 +1,33 @@
-</head>
-<style>
-html, body {
-    background-color: #181a1b;
-}
-html, body {
-    border-color: #736b5e;
-    color: #e8e6e3;
-}
-a {
-    color: #3391ff;
-    background: transparent;
-}
-a:active,
-a:hover {
-  outline: 0;
-}
-table {
-    border-color: #545b5e;
-}
-html {
-  font-family: sans-serif;
-  -ms-text-size-adjust: 100%;
-  -webkit-text-size-adjust: 100%;
-}
-h1 {
-  font-size: 2em;
-  margin: .67em 0;
-  color: #bbb;
-}
-.ink-form fieldset {
-  border: none;
-  margin-bottom: 1.5em;
-  padding: 0;
-  margin: 0;
-}
+<!doctype html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-
-    </style>
-<title>Factorio Mod List</title>
+{% seo %}
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+    <script src="{{ '/assets/js/respond.js' | relative_url }}"></script>
+  </head>
 <body>
-
-    <div id="container" class="container-inner">
+    <div id="header">
+        <nav>
+          <ul>
+            <title>Factorio Mod List</title>            
+          </ul>
+        </nav>
+      </div><!-- end header -->
+    
+    <div class="wrapper">
+        <section>
+        <div id="title">
+          <h1>{{ site.title | default: site.github.repository_name }}</h1>
+          <p>{{ site.description | default: site.github.project_tagline }}</p>
+          <hr>
+          <span class="credits left">Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></span>
+          <span class="credits right">Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/mattgraham">mattgraham</a></span>
+        </div>
+            <div id="content">
     
         <h1>Gelom90 Pyanodon mod list:</h1>
         <p>
