@@ -1,4 +1,2 @@
----
-layout: default
----
-[Link to another page](./index.html).
+
+[Link to another page](./factorio.md).
