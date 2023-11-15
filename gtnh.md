@@ -7,4 +7,4 @@ Modpack Downloads: [MultiMC](http://downloads.gtnewhorizons.com/Multi_mc_downloa
 + [FTB-Library](https://github.com/GTNewHorizons/FTB-Library) - библиотека для FTB-Utilities
 
 
-Мой конфиг для InGameInfoXml - https://pastebin.com/qe0BE6Qs
+Мой конфиг для InGameInfoXml - <https://pastebin.com/qe0BE6Qs>
