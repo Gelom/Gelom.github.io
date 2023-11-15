@@ -1,3 +1,2 @@
-
-[Factorio](./factorio.md).
-[GT New Horizonts](./gtnh.md).
+# [Factorio](./factorio.md)
+# [GT New Horizonts](./gtnh.md)
