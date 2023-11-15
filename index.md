@@ -1,2 +1,2 @@
-# [Factorio](./factorio.md)
-# [GT New Horizonts](./gtnh.md)
+# [Factorio](./_pages/factorio.md)
+# [GT New Horizonts](./_pages/gtnh.md)
